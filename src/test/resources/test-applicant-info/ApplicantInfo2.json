@@ -1,0 +1,8 @@
+{
+  "firstName": "Josh",
+  "age": 40,
+  "gender": "Male",
+  "healthConditions": [
+    "Sleep Apnea"
+  ]
+}

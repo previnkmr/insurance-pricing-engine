@@ -1,0 +1,8 @@
+{
+    "firstName": "John",
+    "age": 50,
+    "gender": "Female",
+    "healthConditions": [
+      "Allergies"
+    ]
+  }
