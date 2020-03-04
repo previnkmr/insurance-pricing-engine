@@ -106,8 +106,8 @@
     </build>
 
     <scm>
-        <url>https://github.com/previnkk/InsurancePricingEngine</url>
-        <connection>scm:git:git://github.com/previnkk/InsurancePricingEngine.git</connection>
-        <developerConnection>scm:git:git@github.com:previnkk/InsurancePricingEngine.git</developerConnection>
+        <url>https://github.com/previnkmr/InsurancePricingEngine</url>
+        <connection>scm:git:git://github.com/previnkmr/InsurancePricingEngine.git</connection>
+        <developerConnection>scm:git:git@github.com:previnkmr/InsurancePricingEngine.git</developerConnection>
     </scm>
 </project>
