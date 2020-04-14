@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.previn</groupId>
-    <artifactId>InsurancePricingEngine</artifactId>
+    <artifactId>insurance-pricing-engine</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
     <properties>
-        <jdk.version>13.0.2</jdk.version>
-        <jdk-release.version>11</jdk-release.version>
+        <jdk.version>14</jdk.version>
+        <jdk-release.version>14</jdk-release.version>
 
         <jackson-databind.version>2.10.2</jackson-databind.version>
         <junit.jupiter.version>5.6.0</junit.jupiter.version>
